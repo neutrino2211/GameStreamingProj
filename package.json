@@ -1,0 +1,17 @@
+{
+	"name": "GameStreamingProj",
+	"wjs-config": {
+		"project-type": "typescript",
+		"root": "dist",
+		"entry": "src/index.html"
+	},
+	"author": "Tsowa Mainasara Al-amin",
+	"version": "0.0.1",
+	"license": "MIT",
+	"dependencies": {
+		"widgetsjs": "0.0.2-nightly.20"
+	},
+	"devDependencies": {
+		"typescript": "^3.8.3"
+	}
+}
